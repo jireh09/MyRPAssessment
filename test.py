@@ -37,7 +37,7 @@ else:
 
 
 if fname == "Ty" or fname == "Zakiyya" or lname == "Adams" or lname == "Shabazz":
-    search = input("\nSearch for First Name & Last Name or Type Unit to search for Unit Number: ")
+    search = input("\nSearch for First Name & Last Name or The Unit Number: ")
 
     if search == "101":
         tname = ("Ty Adams")
